@@ -1,3 +1,5 @@
+# THIS IS A COPY OF CHANGELOG FROM ansible/awx REPOSITORY FOR TEST PURPOSES
+
 # Changelog
 
 This is a list of high-level changes for each release of AWX. A full list of commits can be found at `https://github.com/ansible/awx/releases/tag/<version>`.
