@@ -25,12 +25,12 @@ This is a list of high-level changes for each release of AWX. A full list of com
 - Replaced
 
 
-# 18.0.1 (January 22, 2021)
+# 18.0.2 (January 22, 2021)
 - Added
 - Converted 
 - Replaced
 
-# 17.1.0 (January 22, 2021)
+# 17.0.0 (January 22, 2021)
 - Added
 - Converted 
 - Replaced
